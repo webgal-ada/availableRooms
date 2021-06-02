@@ -1,0 +1,19 @@
+This Assignment will help you practice and test your skills working with JavaScript Objects.
+
+1. Convert the following JavaScript code into a cohesive object.
+
+let hotelName = "Hyatt";
+
+let totalRooms = 250;
+
+let checkIns = 135;
+
+function availRooms() {
+
+return totalRooms - checkIns;
+
+}
+
+2. Output the available amount of rooms using the object to the span element within the HTML document. 
+
+3.Test your code to make sure that it works, and then submit it to your instructor.
